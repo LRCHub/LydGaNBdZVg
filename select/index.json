@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "behind",
+  "base_artist": "夏目美緒(cv.礒部花凜)、森川葉月(cv.芳野由奈)、小宮恵那(cv.Lynn)",
+  "createdAt": "2026-02-16T22:39:56.048547Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Behind The Bar",
+      "artist": "Riley Green",
+      "has_synced": true,
+      "path": "select/01_Behind_The_Bar_Riley_Green.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Behind Your Eyes",
+      "artist": "Bishu feat. Juneau",
+      "has_synced": true,
+      "path": "select/02_Behind_Your_Eyes_Bishu_feat._Juneau.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Behind Your Eyes",
+      "artist": "Bishu, Juneau",
+      "has_synced": true,
+      "path": "select/03_Behind_Your_Eyes_Bishu,_Juneau.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Behind Closed Doors",
+      "artist": "Charlie Rich",
+      "has_synced": true,
+      "path": "select/04_Behind_Closed_Doors_Charlie_Rich.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Behind Closed Doors (Album Version)",
+      "artist": "Charlie Rich",
+      "has_synced": true,
+      "path": "select/05_Behind_Closed_Doors_(Album_Version)_Charlie_Rich.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Behind Closed Doors (Album Version)",
+      "artist": "Charlie Rich",
+      "has_synced": true,
+      "path": "select/06_Behind_Closed_Doors_(Album_Version)_Charlie_Rich.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Behind the Tear",
+      "artist": "Sonny James",
+      "has_synced": true,
+      "path": "select/07_Behind_the_Tear_Sonny_James.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Hands Behind My Back",
+      "artist": "Amber Liu",
+      "has_synced": true,
+      "path": "select/08_Hands_Behind_My_Back_Amber_Liu.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Left Behind",
+      "artist": "Zero 7",
+      "has_synced": false,
+      "path": "select/09_Left_Behind_Zero_7.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "BEHIND THE MIC",
+      "artist": "Saint Pepsi",
+      "has_synced": false,
+      "path": "select/10_BEHIND_THE_MIC_Saint_Pepsi.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Leave You Far Behind",
+      "artist": "Lunatic Calm",
+      "has_synced": false,
+      "path": "select/11_Leave_You_Far_Behind_Lunatic_Calm.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Behind the Drapes",
+      "artist": "MEW",
+      "has_synced": true,
+      "path": "select/12_Behind_the_Drapes_MEW.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Dancing Behind My Eyelids",
+      "artist": "múm",
+      "has_synced": true,
+      "path": "select/13_Dancing_Behind_My_Eyelids_múm.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Behind Your Eyes",
+      "artist": "Nine Black Alps",
+      "has_synced": true,
+      "path": "select/14_Behind_Your_Eyes_Nine_Black_Alps.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Americans Are Behind",
+      "artist": "Bruce Dickinson",
+      "has_synced": false,
+      "path": "select/15_Americans_Are_Behind_Bruce_Dickinson.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "behind",
+      "artist": "夏目美緒(cv.礒部花凜)、森川葉月(cv.芳野由奈)、小宮恵那(cv.Lynn)",
+      "has_synced": false,
+      "path": "select/pl_01_behind_夏目美緒(cv.礒部花凜)、森川葉月(cv.芳野由奈)、小宮恵那(cv.Lynn).txt"
+    }
+  ]
+}
